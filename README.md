@@ -1,5 +1,5 @@
 # buscas-c
-Algortimo de busca em profundidade e busca com custo uniforme desenvolvido em C
+Algortimo de busca em profundidade e busca com custo uniforme desenvolvido em C na disciplina de Inteligência Artificial
 
 
 ## Mapa da Busca
